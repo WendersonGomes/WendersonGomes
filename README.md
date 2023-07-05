@@ -1,3 +1,3 @@
-[![Stats](https://github-readme-stats.vercel.app/api?username=WendersonGomes&show_icons=true&icon_color=D32F2F&theme=dracula&title_color=D32F2F)](https://www.github.com/WendersonGomes/)
+[![Stats](https://github-readme-stats.vercel.app/api?username=WendersonGomes&show_icons=true&icon_color=D32F2F&theme=onedark&title_color=D32F2F)](https://www.github.com/WendersonGomes/)
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WendersonGomes&title_color=f44336&theme=dracula&langs_count=3&hide=javascript,html,roff,assembly,objective-c,xsslt)](https://www.github.com/WendersonGomes/)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WendersonGomes&title_color=f44336&theme=onedark&langs_count=3&layout=donut&hide=roff,assembly,objective-c,xsslt)](https://www.github.com/WendersonGomes/)
