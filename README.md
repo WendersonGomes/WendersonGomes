@@ -1,1 +1,1 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120§ion=header"/>
+[![Stats](https://github-readme-stats.vercel.app/api?username=WendersonGomes&show_icons=true&icon_color=D32F2F&theme=dracula&title_color=D32F2F)](https://www.github.com/WendersonGomes/)
